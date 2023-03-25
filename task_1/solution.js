@@ -5,15 +5,15 @@ function addInCartMessage(title, price) {
     // Задание №1.1. Оповещение о добавлении в корзину
 
     let message;
-        massage = productName;
-        massage += " "; 
-        massage += "за"; 
-        massage += " ";
-        massage += productPrice; 
-        massage += " ";
-        massage += "теперь в корзине!";
+    message = productName;
+    message += " "; 
+    message += "за"; 
+    message += " ";
+    message += productPrice; 
+    message += " ";
+    message += "теперь в корзине!";
 
-    console.log(massage);
+    console.log(message);
 
 
  // создайте переменную message
